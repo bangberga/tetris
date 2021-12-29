@@ -1,2 +1,3 @@
 # tetris
-members:
+members: 
+Trần Anh Thi - ITITIU19212
